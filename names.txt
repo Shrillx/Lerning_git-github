@@ -1,0 +1,25 @@
+# Git
+
+git init - initiliaze empty git repo
+
+the initilized git rep is hidden in macOS system we can pick it up by ls -a
+
+touch
+
+how do we know what changes made which has not been saved
+
+git status
+
+git add 
+
+to add things to the rep
+
+git add . 
+
+will add all the files which are not saved
+
+git add *file_name*
+
+will add that specific file
+
+git commit -m “names.txt file added”
